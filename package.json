@@ -1,0 +1,23 @@
+{
+  "name": "teste-api",
+  "version": "1.0.0",
+  "description": "API Rest com Node.js, Express e MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "swagger-autogen": "node ./swagger.js",
+    "start-gendoc": "node swagger.js"
+  },
+  "author": "Mais Um Blog",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "mysql2": "^3.6.0",
+    "swagger-autogen": "^2.23.5",
+    "swagger-ui-express": "^4.1.4",
+    "uuid": "^9.0.0"
+  }
+}
