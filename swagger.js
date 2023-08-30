@@ -60,7 +60,7 @@ const doc = {
         },
         AportePlano: {
             "idCliente": "77a819c5-bb2f-4ade-84a2-a81dfc67428b",
-            "idPlano": "24fb6c42-6234-402e-ac84-2306d8c16137",
+            "idProduto": "24fb6c42-6234-402e-ac84-2306d8c16137",
             "valorAporte": 100.00
         },
         ResgatePlano: {
